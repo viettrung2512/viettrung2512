@@ -1,6 +1,12 @@
+<!-- Profile Header with Animated Snake -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 <h1 align="center">
   🚀 Nguyễn Việt Trung 🚀  
 </h1>
+
 <h3 align="center">
   💻 Frontend Developer | React Enthusiast 🌈 from Vietnam 🇻🇳
 </h3>
@@ -13,48 +19,59 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **ReactJS** projects  
-- 🌱 Passionate about modern UI/UX and responsive design  
-- 🎯 Focused on performance, scalability & clean code  
-- 📫 Email me at: **vtrung2512@gamil.com**
+- 🔭 Currently working on **ReactJS** projects  
+- 🌱 Passionate about modern **UI/UX** and responsive design  
+- 🎯 Focused on **performance, scalability & clean code**  
+- 📫 Email: [vtrung2512@gamil.com](mailto:vtrung2512@gamil.com)
 
 ---
 
-### 🎨 Tech Stack
+### 🛠 Tech Stack
 
 #### 🚧 Frameworks & Libraries  
 <p>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 #### 🌈 Programming Languages  
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css" />
 </p>
 
 #### 🧠 Concepts & Techniques  
 <p>
-  <img src="https://img.shields.io/badge/OOP-%23FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVC-%23B53471?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-%23F39C12?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_APIs-%2366BB6A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-%23FF3E00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-red?style=for-the-badge" />
 </p>
 
 #### 🗄️ Databases  
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 #### 🛠 Tools & Version Control  
 <p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viettrung&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viettrung&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viettrung2512&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -63,7 +80,7 @@
 
 <p align="center">
   <a href="mailto:vtrung2512@gamil.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
