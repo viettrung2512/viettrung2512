@@ -1,7 +1,4 @@
 <!-- Profile Header with Animated Snake -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@master/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 <h1 align="center">
   🚀 Nguyễn Việt Trung 🚀  
