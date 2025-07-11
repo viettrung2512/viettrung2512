@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Frontend Developer | React Enthusiast 🌈 from Vietnam 🇻🇳
+  💻 Frontend Developer | React Enthusiast 🌈 from Vietnam
 </h3>
 
 <p align="center">
