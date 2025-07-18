@@ -1,88 +1,52 @@
-<!-- Profile Header with Animated Snake -->
+<!-- Modern Frontend Developer Profile -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <h1 align="center">✨ Hi, I'm Nguyễn Việt Trung ✨</h1>
+  <h3 align="center">⚡ Creative Frontend Developer | React Specialist ⚡</h3>
+</div>
 
-<h1 align="center">
-  🚀 Nguyễn Việt Trung 🚀  
-</h1>
+---
 
-<h3 align="center">
-  💻 Frontend Developer | React Enthusiast 🌈 from Vietnam
-</h3>
-
+### � UI/UX Craftsman
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&width=435&lines=🌟+Welcome+to+my+GitHub!;💡+I+love+building+cool+UI+with+React;🚀+Always+learning+new+things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDAE&center=true&vCenter=true&width=500&lines=Pixel+Perfectionist;Interactive+Experience+Designer;React+Architect;Performance+Optimizer" alt="Typing animation" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🛠️ My Toolbox
 
-- 🔭 Currently working on **ReactJS** projects  
-- 🌱 Passionate about modern **UI/UX** and responsive design  
-- 🎯 Focused on **performance, scalability & clean code**  
-- 📫 Email: [vtrung2512@gamil.com](mailto:vtrung2512@gamil.com)
-
----
-
-### 🛠 Tech Stack
-
-#### 🚧 Frameworks & Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+#### Frontend Mastery
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-#### 🌈 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,html,css" />
+#### Design Sensibility
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
 
-#### 🧠 Concepts & Techniques  
-<p>
-  <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVC-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_APIs-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-red?style=for-the-badge" />
-</p>
-
-#### 🗄️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</p>
-
-#### 🛠 Tools & Version Control  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman" />
+#### Backend Integration
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viettrung&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viettrung&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viettrung2512&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:vtrung2512@gamil.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by <strong>Nguyễn Việt Trung</strong>
-</p>
+### 🎨 My Design Philosophy
+```javascript
+const myApproach = {
+  design: ["Mobile-first", "Responsive", "Accessible"],
+  stateManagement: ["Context API", "Redux Toolkit", "Zustand"],
+  styling: ["CSS Modules", "Styled Components", "Emotion"],
+  performance: ["Code Splitting", "Lazy Loading", "Memoization"],
+  testing: ["Jest", "React Testing Library", "Cypress"]
+};
