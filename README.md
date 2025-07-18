@@ -18,15 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-\`\`\`javascript
-const vietTrung = {
-    location: "Vietnam 🇻🇳",
-    role: "Frontend Developer",
-    passion: ["Clean Code", "UI/UX Design", "Performance Optimization"],
-    currentFocus: "Building scalable React applications",
-    funFact: "I debug with console.log and I'm proud of it! 😄",
-    lifePhilosophy: "Code is poetry written in logic"
-};
+
 \`\`\`
 
 - 🔭 Currently working on **ReactJS & Next.js** projects
@@ -132,10 +124,3 @@ const vietTrung = {
 </div>
 
 ---
-
-## 📈 Weekly Development Breakdown
-
-```text
-JavaScript   12 hrs 30 mins  ████████████████████▓   82.5%
-CSS          2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░   14.8%
-HTML         25 mins         ▓░░░░░░░░░░░░░░░░░░░░    2.7%
