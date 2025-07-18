@@ -1,52 +1,141 @@
-<!-- Modern Frontend Developer Profile -->
+<!-- Profile Header with Animated Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h1 align="center">✨ Hi, I'm Nguyễn Việt Trung ✨</h1>
-  <h3 align="center">⚡ Creative Frontend Developer | React Specialist ⚡</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Việt%20Trung&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+Việt+Trung;💻+Frontend+Developer+%7C+React+Enthusiast;🚀+Building+Amazing+User+Experiences;🌟+Always+Learning+%26+Growing!" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=viettrung2512&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/viettrung2512?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ---
 
-### � UI/UX Craftsman
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDAE&center=true&vCenter=true&width=500&lines=Pixel+Perfectionist;Interactive+Experience+Designer;React+Architect;Performance+Optimizer" alt="Typing animation" />
-</p>
+## 🚀 About Me
 
----
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🛠️ My Toolbox
-
-#### Frontend Mastery
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-#### Design Sensibility
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-</p>
-
-#### Backend Integration
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge" />
-</p>
-
----
-
-### 🎨 My Design Philosophy
-```javascript
-const myApproach = {
-  design: ["Mobile-first", "Responsive", "Accessible"],
-  stateManagement: ["Context API", "Redux Toolkit", "Zustand"],
-  styling: ["CSS Modules", "Styled Components", "Emotion"],
-  performance: ["Code Splitting", "Lazy Loading", "Memoization"],
-  testing: ["Jest", "React Testing Library", "Cypress"]
+\`\`\`javascript
+const vietTrung = {
+    location: "Vietnam 🇻🇳",
+    role: "Frontend Developer",
+    passion: ["Clean Code", "UI/UX Design", "Performance Optimization"],
+    currentFocus: "Building scalable React applications",
+    funFact: "I debug with console.log and I'm proud of it! 😄",
+    lifePhilosophy: "Code is poetry written in logic"
 };
+\`\`\`
+
+- 🔭 Currently working on **ReactJS & Next.js** projects
+- 🌱 Learning **TypeScript** and **Advanced React Patterns**
+- 🎯 Focused on **Performance, Scalability & Clean Code**
+- 💡 Love creating **intuitive user interfaces**
+- 📚 Always exploring new **frontend technologies**
+- 🎨 Passionate about **modern UI/UX design**
+- ☕ Fueled by coffee and curiosity
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🚀 Frontend Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,sass,bootstrap" />
+</p>
+
+### 🎨 Design & Styling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+</p>
+
+### 🗄️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,webpack,vite" />
+</p>
+
+### 🧠 Core Concepts
+<p align="left">
+  <img src="https://img.shields.io/badge/Responsive_Design-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-45B7D1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-FFA07A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile-26DE81?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viettrung2512&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viettrung2512&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viettrung2512&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viettrung2512&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viettrung2512&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- [ ] 🚀 Master **Next.js 14** and **App Router**
+- [ ] 📱 Build a **React Native** mobile app
+- [ ] 🎨 Improve **UI/UX design** skills
+- [ ] 🔧 Contribute to **open source** projects
+- [ ] 📚 Learn **Three.js** for 3D web experiences
+- [ ] 🌐 Explore **Web3** and **blockchain** development
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/viettrung2512/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viettrung2512&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/viettrung2512/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viettrung2512&repo=project2&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🎵 Coding Playlist
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=3" />
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+```text
+JavaScript   12 hrs 30 mins  ████████████████████▓   82.5%
+CSS          2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░   14.8%
+HTML         25 mins         ▓░░░░░░░░░░░░░░░░░░░░    2.7%
