@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/github/followers/viettrung2512?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
