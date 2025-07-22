@@ -17,7 +17,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-\`\`\`
 
 - 🔭 Currently working on **ReactJS & Next.js** projects
 - 🌱 Learning **TypeScript** and **Advanced React Patterns**
@@ -102,16 +101,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/viettrung2512/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viettrung2512&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/viettrung2512/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=viettrung2512&repo=project2&theme=tokyonight" />
-  </a>
-</div>
 
 ---
 
