@@ -104,10 +104,3 @@
 
 ---
 
-## 🎵 Coding Playlist
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=3" />
-</div>
-
----
